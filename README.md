@@ -1,9 +1,5 @@
 # Credit Card Approval Prediction Project
 
-![GitHub](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![GitHub](https://img.shields.io/badge/Python-3.8%2B-blue)
-![GitHub](https://img.shields.io/badge/License-MIT-green)
-
 ## 📝 Deskripsi Proyek
 Proyek ini bertujuan untuk membangun model prediktif yang dapat membantu lembaga keuangan dalam memprediksi persetujuan kartu kredit berdasarkan data profil pelamar dan riwayat kredit. Dengan menggunakan teknik **Machine Learning**, kami berharap dapat mengurangi risiko kredit macet dan meningkatkan efisiensi proses persetujuan.
 
